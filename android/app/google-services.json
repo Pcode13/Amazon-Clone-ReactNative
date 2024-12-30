@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578001871980",
+    "project_id": "clone-e6200",
+    "storage_bucket": "clone-e6200.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578001871980:android:756824c03a3145634f2449",
+        "android_client_info": {
+          "package_name": "com.amazon_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZG65CjE_SDxtL_Oea9gklsYHLMBIOr4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
